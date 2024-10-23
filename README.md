@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Conrad 👨🏻‍💻
+
+- I am a highly curious and self-taught individual with a strong desire to learn and continuously improve.
+- I specialize in software engineering and have technical skills in mobile application development using Flutter, web applications, and backend development with Node and Django, as well as database management.
+- During my education with a focus on software, I have gained knowledge in software architecture, design patterns, coding best practices, and SOLID principles.
+-  I am driven by the opportunity to tackle new challenges and keep growing in the tech world.
 
 <!--
 **conraaad/conraaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
