@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Conrad 🧑🧑🏻‍💻
+## Hi there 👋 I'm Conrad 🧑🏻‍💻
 
 - I am a highly curious and self-taught individual with a strong desire to learn and continuously improve.
 - I specialize in software engineering and have technical skills in mobile application development using Flutter, web applications, and backend development with Node and Django, as well as database management.
